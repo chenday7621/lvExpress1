@@ -12,7 +12,7 @@ export default {
   name: "backKnow",
   setup() {
     function backKnow() {
-      window.location.href='https://newexpress-9g79yltn556e3d07-1316996710.ap-shanghai.app.tcloudbase.com'
+      window.location.href='https://lvexpress-3g35kdpa4e1e5443-1316996710.ap-shanghai.app.tcloudbase.com'
     }
 
     return {
