@@ -1,0 +1,825 @@
+[
+  {
+    "name": "绿色",
+    "value": "140",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "快递",
+    "value": "107",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "包装",
+    "value": "88",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "快递包装",
+    "value": "80",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "推进",
+    "value": "32",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "标准",
+    "value": "29",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "工作",
+    "value": "27",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "回收",
+    "value": "27",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "循环",
+    "value": "23",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "国家邮政局",
+    "value": "21",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "治理",
+    "value": "19",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "推动",
+    "value": "19",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "行业",
+    "value": "18",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "企业",
+    "value": "18",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "意见",
+    "value": "17",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "关于",
+    "value": "16",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "发展",
+    "value": "16",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "指导",
+    "value": "16",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "减量化",
+    "value": "16",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "联合",
+    "value": "15",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "标准化",
+    "value": "15",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "体系",
+    "value": "13",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "利用",
+    "value": "13",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "产品认证",
+    "value": "12",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "邮政",
+    "value": "11",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "总局",
+    "value": "11",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "产品",
+    "value": "11",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "部门",
+    "value": "11",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "近日",
+    "value": "10",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "电商",
+    "value": "10",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "实现",
+    "value": "10",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "环保",
+    "value": "10",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "发布",
+    "value": "10",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "我国",
+    "value": "9",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "市场监管",
+    "value": "9",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "加快",
+    "value": "9",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "使用",
+    "value": "9",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "快件",
+    "value": "8",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "亿件",
+    "value": "8",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "如何",
+    "value": "8",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "新华社",
+    "value": "8",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "开展",
+    "value": "8",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "加强",
+    "value": "8",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "召开",
+    "value": "7",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "应用",
+    "value": "7",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "记者",
+    "value": "7",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "实施",
+    "value": "7",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "包装材料",
+    "value": "7",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "创新",
+    "value": "7",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "管理局",
+    "value": "6",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "要求",
+    "value": "6",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "建立",
+    "value": "6",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "成为",
+    "value": "6",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "简称",
+    "value": "6",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "指南",
+    "value": "6",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "根据",
+    "value": "6",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "制定",
+    "value": "6",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "通知",
+    "value": "6",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "调研",
+    "value": "5",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "进行",
+    "value": "5",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "北京",
+    "value": "5",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "日电",
+    "value": "5",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "习近平",
+    "value": "5",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "重要",
+    "value": "5",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "印发",
+    "value": "5",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "方面",
+    "value": "5",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "明确",
+    "value": "5",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "问题",
+    "value": "5",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "生态",
+    "value": "5",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "污染",
+    "value": "5",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "防治",
+    "value": "5",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "委员",
+    "value": "5",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "转型",
+    "value": "5",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "可降解",
+    "value": "5",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "协同",
+    "value": "5",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "深入",
+    "value": "5",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "突出",
+    "value": "5",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "江苏",
+    "value": "5",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "过度",
+    "value": "4",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "会议",
+    "value": "4",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "日均",
+    "value": "4",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "贯彻落实",
+    "value": "4",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "积极",
+    "value": "4",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "制度",
+    "value": "4",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "助力",
+    "value": "4",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "相关",
+    "value": "4",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "提出",
+    "value": "4",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "邮政局",
+    "value": "4",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "三年",
+    "value": "4",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "材料",
+    "value": "4",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "试行",
+    "value": "4",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "业务",
+    "value": "4",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "暂行条例",
+    "value": "4",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "有关",
+    "value": "4",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "外卖",
+    "value": "4",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "鼓励",
+    "value": "4",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "行动",
+    "value": "4",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "绿色物流",
+    "value": "4",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "全国",
+    "value": "4",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "胶带",
+    "value": "4",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "公告",
+    "value": "4",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "建议",
+    "value": "4",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "通过",
+    "value": "4",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "加速",
+    "value": "4",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "提高",
+    "value": "4",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "处理",
+    "value": "4",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "升级",
+    "value": "4",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "管理",
+    "value": "4",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "环节",
+    "value": "4",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "认证",
+    "value": "4",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "数量",
+    "value": "4",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "计划",
+    "value": "4",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "家门口",
+    "value": "4",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "菜鸟",
+    "value": "4",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "条例",
+    "value": "4",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "邮件",
+    "value": "3",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "座谈会",
+    "value": "3",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "组织",
+    "value": "3",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "节约",
+    "value": "3",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "赵文君",
+    "value": "3",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "市场",
+    "value": "3",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "指示",
+    "value": "3",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "批示",
+    "value": "3",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "精神",
+    "value": "3",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "取得",
+    "value": "3",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  },
+  {
+    "name": "配套",
+    "value": "3",
+    "bgColor": "rgb(42, 184, 230,0.12)",
+    "color": "#2AB8E6"
+  },
+  {
+    "name": "全面",
+    "value": "3",
+    "bgColor": "rgb(117, 133, 162,0.12)",
+    "color": "#7585A2"
+  },
+  {
+    "name": "支撑",
+    "value": "3",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "改革",
+    "value": "3",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "未来",
+    "value": "3",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "重点",
+    "value": "3",
+    "bgColor": "rgb(57, 193, 207,0.12)",
+    "color": "#39c1cf"
+  },
+  {
+    "name": "研制",
+    "value": "3",
+    "bgColor": "rgb(66, 105, 245,0.12)",
+    "color": "#4269f5"
+  },
+  {
+    "name": "任务",
+    "value": "3",
+    "bgColor": "rgb(184, 107, 215,0.12)",
+    "color": "#b86bd7"
+  },
+  {
+    "name": "提速",
+    "value": "3",
+    "bgColor": "rgb(243, 84, 83,0.12)",
+    "color": "#f35453"
+  },
+  {
+    "name": "表示",
+    "value": "3",
+    "bgColor": "rgb(250, 116, 20,0.12)",
+    "color": "#FA7414"
+  },
+  {
+    "name": "文明",
+    "value": "3",
+    "bgColor": "rgb(255, 171, 30,0.12)",
+    "color": "#FFAB1E"
+  },
+  {
+    "name": "思想",
+    "value": "3",
+    "bgColor": "rgb(136, 104, 217,0.12)",
+    "color": "#8868D9"
+  }
+
+]
